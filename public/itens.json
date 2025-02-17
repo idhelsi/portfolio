@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "E-commerce",
+      "link": "https://github.com/idhelsi/Loja-giga-tech.git",
+      "category": "projetos",
+      "photos": ["./assets/img/g1.png", "./assets/img/g2.png"],
+      "linguagems": ["HTML", "CSS", "JavaScript", "TypeScrit"]
+    },
+    {
+      "id": 2,
+      "name": "Endpoint - long lat, zip code and temperature",
+      "link": "https://github.com/idhelsi/Temperatura-via-cep.git",
+      "category": "app",
+      "photos": ["./assets/img/e1.png", "./assets/img/e2.png"],
+      "linguagems": ["HTML", "CSS", "PHP"]
+    },
+    {
+      "id": 3,
+      "name": "Rede-Social facedã",
+      "link": "https://github.com/idhelsi/Faceda.git",
+      "category": "projetos",
+      "photos": ["./assets/img/f1.png", "./assets/img/f2.png", "./assets/img/f3.png", "./assets/img/f4.png", "./assets/img/f5.png"],
+      "linguagems": ["HTML", "CSS", "PHP", "JavaScript"]
+    }
+  ]

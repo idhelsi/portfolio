@@ -1,0 +1,5 @@
+inicia o tailwind
+npx @tailwindcss/cli -i ./public/assets/css/input.css -o ./public/assets/css/output.css --watch
+
+inicia o typescript
+tsc -w
